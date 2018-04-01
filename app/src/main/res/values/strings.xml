@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestingChangeLanguage</string>
+    <string name="action_settings">Settings</string>
+    <string name="hi">還沒換，嗨！</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>
